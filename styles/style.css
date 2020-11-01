@@ -288,10 +288,11 @@ div, main, section, .footer, h1, h2, h3, p  {
   min-height: 350px;
   background-color: #1f1f1f;
   color: white;
+  padding-top: 60px;
 }
 
 .footer__columns{
-  margin: 60px auto 40px;
+  margin: 0px auto 40px;
   width: 90%;
   display: flex;
   justify-content: space-between;
