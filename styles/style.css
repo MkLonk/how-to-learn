@@ -208,12 +208,12 @@ div, main, section, .footer, h1, h2, h3, p  {
   background-image: url(../images/feynman.png);
   background-repeat: no-repeat;
   background-position: bottom left;
+  padding-top: 100px;
 }
 
 .feynman__title {
   margin: 0;
   max-width: 648px;
-  padding-top: 100px;
   text-align: center;
   line-height: 1.15;
   font-size: 120px;
@@ -340,7 +340,7 @@ div, main, section, .footer, h1, h2, h3, p  {
   margin-bottom: 16px;
 }
 
-.footer__column-link_text {
+.footer__column-link {
   text-decoration: none;
   line-height: 30px;
   font-size: 18px;
@@ -348,7 +348,7 @@ div, main, section, .footer, h1, h2, h3, p  {
   color: white;
 }
 
-.footer__column-link_text:hover {
+.footer__column-link:hover {
   color: #a83215;
 }
 
