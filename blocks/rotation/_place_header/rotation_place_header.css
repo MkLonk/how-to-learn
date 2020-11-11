@@ -1,0 +1,6 @@
+.rotation_place_header {
+  position: absolute;
+  top: 64px;
+  right: 0;
+  z-index: -2;
+}
