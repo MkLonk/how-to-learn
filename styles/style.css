@@ -17,16 +17,16 @@ div, main, section, .footer, h1, h2, h3, p  {
 
 /* start header */
 
+/*
 .header {
   height: 100vh;
   min-height: 600px;
   max-height: 756px;
-  /* выше установили ограничения для секции */
   background-color: #f2f2f2;
   display: flex;
   position: relative;
   z-index: 1;
-}
+} */
 
 .logo {
   height: 32px;
